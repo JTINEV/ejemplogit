@@ -5,17 +5,17 @@
 package ejemplogit;
 
 /**
+ *Esta clase es un ejemplo 
  *
  * @author Hp
  */
 public class Ejemplogit {
 
     /**
-     * Esta clase es un ejemplo 
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hola mundo");  
     }
     
 }
