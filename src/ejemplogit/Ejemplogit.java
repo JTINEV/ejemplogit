@@ -11,6 +11,7 @@ package ejemplogit;
 public class Ejemplogit {
 
     /**
+     * Esta clase es un ejemplo 
      * @param args the command line arguments
      */
     public static void main(String[] args) {
